@@ -1,3 +1,4 @@
+// Exercise 2 Submission - Marielle Hugo
 package com.example.exercise_2_music_player
 
 import android.os.Bundle
